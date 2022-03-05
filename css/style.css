@@ -185,17 +185,16 @@ img {
   font-weight: 400;
   border-radius: 0.5rem;
 }
-
+.hero-section .hero-content-left .btn a {
+  color: #fff;
+}
 .hero-section .hero-content-left .btn:hover {
-  a {
-    color: #5979c7 !important;
-  }
+  color: #5979c7 !important;
   background: transparent;
   border: 2px solid #5979c7;
 }
-
-.hero-section .hero-content-left .btn a {
-  color: #fff;
+.hero-section .hero-content-left .btn:hover a {
+  color: #5979c7 !important;
 }
 
 .hero-section .hero-illustration-right img {
