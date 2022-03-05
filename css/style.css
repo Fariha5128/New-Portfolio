@@ -195,6 +195,8 @@ img {
 }
 .hero-section .hero-content-left .btn:hover a {
   color: #5979c7 !important;
+  background: transparent;
+  border: 2px solid #5979c7;
 }
 
 .hero-section .hero-illustration-right img {
