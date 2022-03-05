@@ -186,10 +186,11 @@ img {
   border-radius: 0.5rem;
 }
 
-.hero-section .hero-content-left .btn:hover,
-.hero-section .hero-content-left .btn:active {
+.hero-section .hero-content-left .btn:hover {
+  a {
+    color: #5979c7 !important;
+  }
   background: transparent;
-  color: #5979c7;
   border: 2px solid #5979c7;
 }
 
